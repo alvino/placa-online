@@ -23,8 +23,8 @@
         "name": "Flamengo",
         "abbr": "FLA",
         "badge": "logo1.png",
-        "supporters": 9,
-        "score": 3,
+        "supporters": 24,
+        "score": 0,
         "players": [
           {
             "name": "Alex Muralha",
@@ -48,8 +48,8 @@
         "name": "Atlético-MG",
         "abbr": "CAM",
         "badge": "logo2.png",
-        "supporters": 6,
-        "score": 2,
+        "supporters": 27,
+        "score": 0,
         "players": [
           {
             "name": "Alex Muralha",
@@ -77,8 +77,8 @@
         "gyCFuP3rM2w"
       ],
       "porcentagem": {
-        "teamA": 50,
-        "teamB": 50
+        "teamA": "43",
+        "teamB": "57"
       }
     },
     {
@@ -105,7 +105,7 @@
         "abbr": "PAL",
         "badge": "logo1.png",
         "supporters": 9,
-        "score": 2,
+        "score": 0,
         "players": [
           {
             "name": "Alex Muralha",
@@ -130,7 +130,7 @@
         "abbr": "CRU",
         "badge": "logo2.png",
         "supporters": 14,
-        "score": 1,
+        "score": 0,
         "players": [
           {
             "name": "Alex Muralha",
